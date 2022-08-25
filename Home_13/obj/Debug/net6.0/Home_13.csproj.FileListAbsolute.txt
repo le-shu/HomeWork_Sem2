@@ -1,0 +1,15 @@
+D:\GeekBrains\C# Home 2\Home_13\bin\Debug\net6.0\Home_13.exe
+D:\GeekBrains\C# Home 2\Home_13\bin\Debug\net6.0\Home_13.deps.json
+D:\GeekBrains\C# Home 2\Home_13\bin\Debug\net6.0\Home_13.runtimeconfig.json
+D:\GeekBrains\C# Home 2\Home_13\bin\Debug\net6.0\Home_13.dll
+D:\GeekBrains\C# Home 2\Home_13\bin\Debug\net6.0\Home_13.pdb
+D:\GeekBrains\C# Home 2\Home_13\obj\Debug\net6.0\Home_13.csproj.AssemblyReference.cache
+D:\GeekBrains\C# Home 2\Home_13\obj\Debug\net6.0\Home_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C# Home 2\Home_13\obj\Debug\net6.0\Home_13.AssemblyInfoInputs.cache
+D:\GeekBrains\C# Home 2\Home_13\obj\Debug\net6.0\Home_13.AssemblyInfo.cs
+D:\GeekBrains\C# Home 2\Home_13\obj\Debug\net6.0\Home_13.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C# Home 2\Home_13\obj\Debug\net6.0\Home_13.dll
+D:\GeekBrains\C# Home 2\Home_13\obj\Debug\net6.0\refint\Home_13.dll
+D:\GeekBrains\C# Home 2\Home_13\obj\Debug\net6.0\Home_13.pdb
+D:\GeekBrains\C# Home 2\Home_13\obj\Debug\net6.0\Home_13.genruntimeconfig.cache
+D:\GeekBrains\C# Home 2\Home_13\obj\Debug\net6.0\ref\Home_13.dll
